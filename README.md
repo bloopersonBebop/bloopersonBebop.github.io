@@ -1,5 +1,2 @@
-# lexm.github.io
- making for Github pages
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+# Lex Martinez
+Hello!
